@@ -1,5 +1,5 @@
 {
-  "name": "vision-camera-face-detector",
+  "name": "@nth-zik/vision-camera-face-detector",
   "version": "0.1.8",
   "description": "VisionCamera Frame Processor Plugin to detect faces using MLKit Vision Face Detector",
   "main": "lib/commonjs/index",
